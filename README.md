@@ -29,3 +29,6 @@ Web Developer | Open Source Contributor | Astrophile
 <a href="http://www.github.com/ragul1697">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragul1697&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{ragul1697}/count.svg)
