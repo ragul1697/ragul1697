@@ -3,9 +3,9 @@
 Web Developer | Open Source Contributor | Astrophile 
 
 ## 👨‍💻 About Me
-* 🚀 Full Stack Web Developer with 2.7 years of experience
+* 🚀 Full Stack Web Developer with 3.2 years of experience
 * 🔧 Specializing in creating web applications with a focus on beautiful, responsive UI/UX
-* 📚 Strong expertise in Angular, HTML/CSS, and TypeScript
+* 📚 Strong expertise in Angular, HTML/CSS, Javascript and TypeScript
 * 💼 Open source contributor and passionate about collaborating on innovative projects
 * 🌍 Space enthusiast
 
